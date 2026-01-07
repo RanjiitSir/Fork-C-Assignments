@@ -3,7 +3,7 @@
 
 int main()
 {
-    char  Arr[5] = {'A'};                      // Declaration with Partial Initialization
+    char  Arr[5];                      /// Declaration without Initialization
 
     printf("\n Value of 1 Element = <%c> .",Arr[0]);
     printf("\n Value of 2 Element = {%c} .",Arr[1]);

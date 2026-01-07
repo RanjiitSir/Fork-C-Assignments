@@ -3,7 +3,7 @@
 
 int main()
 {
-    int Values[5] = {10, 22, 0, 7, -5};
+    int Values[5];
 
     printf("\n Value Of 101st Element = %d",Values[0]);
     printf("\n Value Of 102nd Element = %d",Values[1]);

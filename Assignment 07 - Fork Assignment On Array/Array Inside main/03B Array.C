@@ -3,7 +3,7 @@
 
 int main()
 {
-    int Values[7] = {0,0,0,0,0,0,0};
+    int Values[7] = {};
 
     printf("\n Value Of 1st Element = %d",Values[0]);
     printf("\n Value Of 2nd Element = %d",Values[1]);

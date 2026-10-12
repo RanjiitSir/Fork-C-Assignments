@@ -21,6 +21,6 @@ int main()
 
         printf("\n Reverse of Given Number %d = %d.", No, Rev);
 
-        _getch();
+        getch();
         return 0;
 }

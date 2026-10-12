@@ -18,6 +18,6 @@ int main()
 
         printf("\n Digits Count in Given Number %d = %d.", No, dCnt);
 
-        _getch();
+        getch();
         return 0;
 }
